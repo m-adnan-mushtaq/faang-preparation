@@ -268,5 +268,5 @@ function parenthesisValidator(string) {
     } 
     return pStack.isEmpty()
 }
-console.log(parenthesisValidator('(()))'));
-console.log(parenthesisValidator('(())()'));
+// console.log(parenthesisValidator('(()))'));
+// console.log(parenthesisValidator('(())()'));
